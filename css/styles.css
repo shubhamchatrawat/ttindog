@@ -152,6 +152,9 @@ top:-50px;
     position: static;
     transform: rotate(0);
   }
+    p{
+    font-size: 25px;
+  }
 }
 
 #cta{
