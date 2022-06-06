@@ -40,7 +40,12 @@ body{
 .btn{
      border-radius: 2;
    }
-
+ .btn-card{
+     width:100%;
+     position: absolute;
+     bottom: 5px;
+     left:1px;
+   }
    /* navbar */
    .navbar-brand{
      font-family: Ubuntu;
